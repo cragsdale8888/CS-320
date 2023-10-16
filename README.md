@@ -1,1 +1,8 @@
-# CS-320
+How can I ensure that my code, program, or software is functional and secure?
+To ensure my code is functional and secure, I create associated test cases. Using an IDE, such as Eclipse, I can verify the testing coverage of my test procedures, which ensures the code produces expected results. One testing method is equivalence partitioning, which ensures that a wide range of inputs produces expected results. Additionally, negative tests can be created to ensure security, since they verify the code responds appropriately when a user attempts invalid inputs.
+
+How do I interpret user needs and incorporate them into a program?
+User needs are the cornerstone for any software creation, as the software is meant to address those needs. Using customer requirements, a developer creates the code required for those requirements to be satisfied. They then produce unit test cases that ensure the software application meets expected requirements for different inputs. It is also important to utilize system design documents, such as UML diagrams, which show how the user wants different software components to interact to form the final product. 
+
+How do I approach designing software?
+In designing softwware, I first review what the customer requirements specify. This is because requirements help me understand what the finished product should be able to do. I then start writing the code required to meet these requirements. Throughout the process, I ensure to run unit tests to verify that the code is producing expected results with both valid and invalid inputs. Unit testing is especially important early in the development process, as it catches bugs before they are found deeper into the SDLC, which could cost additional time and money to fix. 
